@@ -1,0 +1,5 @@
+.env
+server.js
+frontend/
+ts-db-manager-api/
+vue-db-manager/
